@@ -5,7 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="1280" d:DesignHeight="800"
         SizeToContent="WidthAndHeight"
         x:Class="PicSim_Resharped.MainWindow"
-        Title="PicSim_Resharped">
+        Title="PicSim Resharped">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <!-- Top -->
@@ -17,6 +17,97 @@
         </Menu>
         <StackPanel DockPanel.Dock="Left" Orientation="Vertical" MinWidth="320">
             <!-- Left -->
+            <Label>Ports</Label>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <!-- Port A -->
+                <Grid RowDefinitions="Auto, Auto, Auto" Margin="10,0">
+                    <Label Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center">RA</Label>
+                    <Label Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">TRIS</Label>
+                    <Label Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center">PIN</Label>
+                </Grid>
+                <Border Background="Gainsboro"
+                        BorderBrush="Black"
+                        BorderThickness="2"
+                        CornerRadius="3"
+                        Padding="10,0"
+                        Margin="10,0"
+                        >
+                <Grid RowDefinitions="Auto, Auto, Auto" ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
+                    <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">7</Label>
+                    <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">6</Label>
+                    <Label Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">5</Label>
+                    <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">4</Label>
+                    <Label Grid.Row="0" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">3</Label>
+                    <Label Grid.Row="0" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">2</Label>
+                    <Label Grid.Row="0" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">1</Label>
+                    <Label Grid.Row="0" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    
+                    <Label Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    
+                    <Label Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">-</Label>
+                    <Label Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    
+                </Grid>
+                </Border>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <!-- Port B -->
+                <Grid RowDefinitions="Auto, Auto, Auto" Margin="10,0">
+                    <Label Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center">RB</Label>
+                    <Label Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">TRIS</Label>
+                    <Label Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center">PIN</Label>
+                </Grid>
+                <Border Background="Gainsboro"
+                        BorderBrush="Black"
+                        BorderThickness="2"
+                        CornerRadius="3"
+                        Padding="10,0"
+                        Margin="10,0"
+                >
+                <Grid RowDefinitions="Auto, Auto, Auto" ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
+                    <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">7</Label>
+                    <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">6</Label>
+                    <Label Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">5</Label>
+                    <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">4</Label>
+                    <Label Grid.Row="0" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">3</Label>
+                    <Label Grid.Row="0" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">2</Label>
+                    <Label Grid.Row="0" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">1</Label>
+                    <Label Grid.Row="0" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    
+                    <Label Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    <Label Grid.Row="1" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">I</Label>
+                    
+                    <Label Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                    <Label Grid.Row="2" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center">0</Label>
+                </Grid>
+                </Border>
+            </StackPanel>
+            <Label>Registers &amp; their bit view</Label>
             <Rectangle Fill="Aqua" Height="750"></Rectangle>
         </StackPanel>
         <StackPanel DockPanel.Dock="Right" Orientation="Vertical" MinWidth="320" HorizontalAlignment="Right">
@@ -25,7 +116,7 @@
             <TabControl>
                 <TabItem Header="Bank 0">
                     <!-- RAM Bank 0 -->
-                    <Grid ColumnDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30" RowDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30" ShowGridLines="True">
+                    <Grid ColumnDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30" RowDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30">
                         <Label Background="Gray"></Label>
                         <Rectangle Grid.Row="0" Grid.Column="1" Fill="Gray"></Rectangle>
                         <Label Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
@@ -223,7 +314,7 @@
                 </TabItem>
                 <TabItem Header="Bank 1">
                     <!-- RAM Bank 1 -->
-                    <Grid ColumnDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30" RowDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30" ShowGridLines="True">
+                    <Grid ColumnDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30" RowDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30">
                         <Label Background="Gray"></Label>
                         <Rectangle Grid.Row="0" Grid.Column="1" Fill="Gray"></Rectangle>
                         <Label Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
@@ -420,8 +511,6 @@
                     </Grid>
                 </TabItem>
             </TabControl>
-            <Rectangle Fill="Blue" Height="200"></Rectangle>
-            
         </StackPanel>
         <Grid DockPanel.Dock="Bottom" Height="40">
             <Grid.ColumnDefinitions>
