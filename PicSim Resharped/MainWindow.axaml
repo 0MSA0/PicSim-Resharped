@@ -46,42 +46,377 @@
                         
                         <Rectangle Grid.Row="1" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="2" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">08</Label>
+                        <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="3" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">10</Label>
+                        <Label Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="4" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">18</Label>
+                        <Label Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="5" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">20</Label>
+                        <Label Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="6" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">28</Label>
+                        <Label Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="7" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">30</Label>
+                        <Label Grid.Row="7" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="8" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="8" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">38</Label>
+                        <Label Grid.Row="8" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="9" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="9" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">40</Label>
+                        <Label Grid.Row="9" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="10" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="10" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">48</Label>
+                        <Label Grid.Row="10" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="11" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="11" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">50</Label>
+                        <Label Grid.Row="11" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="12" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="12" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">58</Label>
+                        <Label Grid.Row="12" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="13" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="13" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">60</Label>
+                        <Label Grid.Row="13" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="14" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="14" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">68</Label>
+                        <Label Grid.Row="14" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="15" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="15" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">70</Label>
+                        <Label Grid.Row="15" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
                         <Rectangle Grid.Row="16" Grid.Column="0" Fill="Gray"></Rectangle>
                         <Label Grid.Row="16" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">78</Label>
+                        <Label Grid.Row="16" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
                     </Grid>
                 </TabItem>
                 <TabItem Header="Bank 1">
                     <!-- RAM Bank 1 -->
-                    <Grid>
+                    <Grid ColumnDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30" RowDefinitions="30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30" ShowGridLines="True">
+                        <Label Background="Gray"></Label>
+                        <Rectangle Grid.Row="0" Grid.Column="1" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="2" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">01</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="3" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">02</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="4" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">03</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="5" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">04</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="6" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">05</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="7" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">06</Label>
+                        <Rectangle Grid.Row="0" Grid.Column="8" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="0" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">07</Label>
                         
+                        <Rectangle Grid.Row="1" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">80</Label>
+                        <Label Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">FF</Label>
+                        <Label Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">18</Label>
+                        <Label Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="1" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">1F</Label>
+                        <Label Grid.Row="1" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">FF</Label>
+                        <Label Grid.Row="1" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="2" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">88</Label>
+                        <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="2" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="3" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">90</Label>
+                        <Label Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="3" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="4" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">98</Label>
+                        <Label Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="4" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="5" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">A0</Label>
+                        <Label Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="5" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="6" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">A8</Label>
+                        <Label Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="6" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="7" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">B0</Label>
+                        <Label Grid.Row="7" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="7" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="8" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="8" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">B8</Label>
+                        <Label Grid.Row="8" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="8" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="9" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="9" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">C0</Label>
+                        <Label Grid.Row="9" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="9" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="10" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="10" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">C8</Label>
+                        <Label Grid.Row="10" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="10" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="11" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="11" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">D0</Label>
+                        <Label Grid.Row="11" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="11" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="12" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="12" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">D8</Label>
+                        <Label Grid.Row="12" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="12" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="13" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="13" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">E0</Label>
+                        <Label Grid.Row="13" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="13" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="14" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="14" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">E8</Label>
+                        <Label Grid.Row="14" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="14" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="15" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="15" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">F0</Label>
+                        <Label Grid.Row="15" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="15" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        
+                        <Rectangle Grid.Row="16" Grid.Column="0" Fill="Gray"></Rectangle>
+                        <Label Grid.Row="16" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">F8</Label>
+                        <Label Grid.Row="16" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
+                        <Label Grid.Row="16" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center">00</Label>
                     </Grid>
                 </TabItem>
             </TabControl>
