@@ -535,6 +535,7 @@
             <!-- Center -->
                 <Grid Grid.Row="0" RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto"
                       ColumnDefinitions="Auto, *, Auto">
+                    <!-- Stack  view -->
                     <Rectangle Grid.Column="0" Width="100"></Rectangle>
                     <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center">Stack content</Label>
                     <Label Grid.Row="1" Grid.Column="1" HorizontalContentAlignment="Center" BorderBrush="Red" BorderThickness="2" CornerRadius="3">0</Label>
@@ -547,7 +548,13 @@
                     <Label Grid.Row="8" Grid.Column="1" HorizontalContentAlignment="Center">0</Label>
                     <Rectangle Grid.Column="2" Width="100"></Rectangle>
                 </Grid>
-            <Rectangle Grid.Row="1" Fill="Indigo" Height="40"></Rectangle>
+            <DataGrid Grid.Row="1" AutoGenerateColumns="True" CanUserReorderColumns="False" CanUserSortColumns="False">
+                <!-- Loaded program  view -->
+                <DataGrid.Columns>
+                    <DataGridCheckBoxColumn Header="BP"/>
+                    <DataGridTextColumn Header="Command"/>
+                </DataGrid.Columns>
+            </DataGrid>
         </Grid>
     </DockPanel>
 </Window>
