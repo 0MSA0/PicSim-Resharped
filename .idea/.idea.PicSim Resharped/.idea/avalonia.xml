@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PicSim Resharped/App.axaml" value="PicSim Resharped/PicSim Resharped.csproj" />
+        <entry key="PicSim Resharped/MainWindow.axaml" value="PicSim Resharped/PicSim Resharped.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
