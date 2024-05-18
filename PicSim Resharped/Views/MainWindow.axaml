@@ -533,7 +533,7 @@
             <Button Grid.Column="4" Width="85" HorizontalContentAlignment="Center">Resume</Button>
             <Rectangle Grid.Column="5" />
         </Grid>
-        <Grid RowDefinitions="Auto, Auto">
+        <Grid RowDefinitions="Auto, *">
             <!-- Center -->
                 <Grid Grid.Row="0" RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto"
                       ColumnDefinitions="Auto, *, Auto">
@@ -550,11 +550,12 @@
                     <Label Grid.Row="8" Grid.Column="1" HorizontalContentAlignment="Center">0</Label>
                     <Rectangle Grid.Column="2" Width="100"></Rectangle>
                 </Grid>
-            <DataGrid Grid.Row="1" AutoGenerateColumns="True" CanUserReorderColumns="False" CanUserSortColumns="False">
+            <DataGrid Name="ProgramGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" ItemsSource="{Binding ProgramRows}">
                 <!-- Loaded program  view -->
                 <DataGrid.Columns>
-                    <DataGridCheckBoxColumn Header="BP"/>
-                    <DataGridTextColumn Header="Command"/>
+                    <DataGridCheckBoxColumn Header="BP" Binding="{Binding HasBreakpoint}"/>
+                    <DataGridTextColumn Header="PC" Binding="{Binding PC}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Command" Binding="{Binding Command}" IsReadOnly="True"/>
                 </DataGrid.Columns>
             </DataGrid>
         </Grid>

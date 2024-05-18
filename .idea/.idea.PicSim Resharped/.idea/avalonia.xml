@@ -5,6 +5,7 @@
       <map>
         <entry key="PicSim Resharped/App.axaml" value="PicSim Resharped/PicSim Resharped.csproj" />
         <entry key="PicSim Resharped/MainWindow.axaml" value="PicSim Resharped/PicSim Resharped.csproj" />
+        <entry key="PicSim Resharped/Views/MainWindow.axaml" value="PicSim Resharped/PicSim Resharped.csproj" />
       </map>
     </option>
   </component>
