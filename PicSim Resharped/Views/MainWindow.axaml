@@ -2,9 +2,11 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:PicSim_Resharped.ViewModels"
         mc:Ignorable="d" d:DesignWidth="1280" d:DesignHeight="800"
         SizeToContent="WidthAndHeight"
         x:Class="PicSim_Resharped.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
         Title="PicSim Resharped">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
@@ -537,7 +539,7 @@
                       ColumnDefinitions="Auto, *, Auto">
                     <!-- Stack  view -->
                     <Rectangle Grid.Column="0" Width="100"></Rectangle>
-                    <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center">Stack content</Label>
+                    <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Content="{Binding StackTitle}"/>
                     <Label Grid.Row="1" Grid.Column="1" HorizontalContentAlignment="Center" BorderBrush="Red" BorderThickness="2" CornerRadius="3">0</Label>
                     <Label Grid.Row="2" Grid.Column="1" HorizontalContentAlignment="Center">0</Label>
                     <Label Grid.Row="3" Grid.Column="1" HorizontalContentAlignment="Center">0</Label>
