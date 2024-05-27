@@ -1,7 +1,9 @@
+using System;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 using CommunityToolkit.Mvvm.Input;
 using PicSim_Resharped.Models;
+using PicSim_Resharped.Services;
 using PicSim_Resharped.ViewModels;
 
 namespace PicSim_Resharped;
@@ -19,6 +21,7 @@ public partial class MainWindow : Window
         if (DataContext is MainWindowViewModel vm)
         {
             vm.ScrollToPcCommand = new RelayCommand<ProgramRow>(ScrollTo);
+            vm.FileService = new FileService(this);
         }
     }
     

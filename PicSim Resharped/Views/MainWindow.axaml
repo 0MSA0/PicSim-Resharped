@@ -12,7 +12,7 @@
         <Menu DockPanel.Dock="Top">
             <!-- Top -->
             <MenuItem Header="_File">
-                <MenuItem Header="_Open..." />
+                <MenuItem Header="_Open..." Command="{Binding OpenFileCommand}"/>
                 <Separator />
                 <MenuItem Header="_Exit" />
             </MenuItem>
